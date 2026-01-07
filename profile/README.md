@@ -19,9 +19,10 @@
 | 🟡 **TASK 4** | | Lý thuyết + Bài tập **array** |
 | 🟡 **TASK 5** | | Lý thuyết + Bài tập **function** |
 | 🟠 **TASK 6** | | Bài tương tự **BTL1** – *Zootopia 1* (thỏ 🐰 & cáo 🦊) |
-| 🔵 **TASK 8** | | Lý thuyết + Bài tập **Point** & **Point nâng cao** |
-| 🔴 **TASK 9** | | Bài tương tự **BTL1 (nâng cao, có Point)** – *Zootopia 2* (thỏ 🐰 & cáo 🦊) |
-| ⚫ **TASK 10** | | **Hiện thực hoàn chỉnh BTL1 - HK252** |
+| 🔵 **TASK 7** | | Lý thuyết + Bài tập **Point** & **Point nâng cao** |
+| 🔴 **TASK 8** | | Bài tương tự **BTL1 (nâng cao, có Point)** – *Zootopia 2* (thỏ 🐰 & cáo 🦊) |
+| ⚫ **TASK 9** | | **Hiện thực hoàn chỉnh BTL1 - HK252** |
+| ⚫ **TASK 10** | | **Mở rộng BTL1 - HK252** |
 
 ![Zootopia 1](https://cdnv2.tgdd.vn/mwg-static/common/News/0/phim-zootopia-1.jpeg)
 
