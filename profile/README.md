@@ -20,6 +20,8 @@
 | 🟠 **TASK 5** |  | Lý thuyết + Bài tập **Point** |
 | 🔵 **TASK 6** | |  **C++ nâng cao** |
 
+--- 
+
 ## 📅 Lộ trình học BTL https://discord.com/channels/1458281022411116607/1458281023740580008
 
 | Buổi  | Nội dung chính |
@@ -30,7 +32,12 @@
 | **Nhiệm vụ 8 (mở rộng)** | Struct + emun |
 | **Nhiệm vụ 9 (mở rộng)** | Point + Danh sách liên kết |
 | **Nhiệm vụ 9 (mở rộng)** | Danh sách liên kết nâng cao |
+
 ---
+
+## 5 Bài leetcode mỗi ngày https://discord.com/channels/1458281022411116607/1462655258525175912
+
+--- 
 
 ## 📖 Cách học
 - Sẽ có **meeting** trong các buổi BTL để thảo luận và hướng dẫn  
