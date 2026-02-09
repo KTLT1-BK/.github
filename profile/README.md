@@ -9,7 +9,7 @@
 
 --- 
 
-## 📅 Lộ trình học lý thuyết và bài tập
+## 📅 Lộ trình học lý thuyết và bài tập https://discord.com/channels/1458281022411116607/1458281023556157661
 
 | Buổi | Deadline | Nội dung chính |
 |-----|----------|----------------|
@@ -20,7 +20,7 @@
 | 🟠 **TASK 5** |  | Lý thuyết + Bài tập **Point** |
 | 🔵 **TASK 6** | |  **C++ nâng cao** |
 
-## 📅 Lộ trình học BTL
+## 📅 Lộ trình học BTL https://discord.com/channels/1458281022411116607/1458281023740580008
 
 | Buổi  | Nội dung chính |
 |-----|----------------|
