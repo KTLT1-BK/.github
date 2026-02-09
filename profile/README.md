@@ -9,22 +9,27 @@
 
 --- 
 
-## 📅 Lộ trình học
+## 📅 Lộ trình học lý thuyết và bài tập
 
 | Buổi | Deadline | Nội dung chính |
 |-----|----------|----------------|
-| 🟢 **TASK 1** | 12/1 | GitHub & Git, cài **VS Code + Docker**, **unit test C++**, debug trong Docker |
-| 🟢 **TASK 2** | 18/1 | Ôn **Nhập môn Điện toán** Ôn lại kiến thức cơ bản C++, luyện debug, viết test case |
-| 🟡 **TASK 3** | 25/1 | Lý thuyết + Bài tập File, Array, String, Enum, Struct trong c++ |
-| 🟡 **TASK 4** | 30/1 | Lý thuyết + Bài tập **function** |
-| 🟠 **TASK 5** | 8/2 | Bài tương tự **BTL1** – *Zootopia 1* (thỏ 🐰 & cáo 🦊) |
-| 🔵 **TASK 6** | sau tết | Lý thuyết + Bài tập **Point** & **Point nâng cao** |
-| 🔴 **TASK 7** | sau tết  | Bài tương tự **BTL1 (nâng cao, có Point)** – *Zootopia 2* (thỏ 🐰 & cáo 🦊) |
-| ⚫ **TASK 8** | sau tết  | **Hiện thực hoàn chỉnh BTL1 - HK252** |
-| ⚫ **TASK 9* |  sau tết | **Mở rộng thêm point BTL1 - HK252** |
+| 🟢 **TASK 1** |  | GitHub & Git, cài **VS Code + Docker**, **unit test C++**, debug trong Docker |
+| 🟢 **TASK 2** |  | Ôn **Nhập môn Điện toán** Ôn lại kiến thức cơ bản C++, luyện debug, viết test case |
+| 🟡 **TASK 3** |  | Lý thuyết + Bài tập File, Array, String, Enum, Struct trong c++ |
+| 🟡 **TASK 4** |  | Lý thuyết + Bài tập **function** |
+| 🟠 **TASK 5** |  | Lý thuyết + Bài tập **Point** |
+| 🔵 **TASK 6** | |  **C++ nâng cao** |
 
-![Zootopia 1](https://cdnv2.tgdd.vn/mwg-static/common/News/0/phim-zootopia-1.jpeg)
+## 📅 Lộ trình học BTL
 
+| Buổi  | Nội dung chính |
+|-----|----------------|
+| **Nhiệm vụ 0 tới 5** | phần bắt buộc BTL |
+| **Nhiệm vụ 6 (mở rộng)** | Đệ quy |
+| **Nhiệm vụ 7 (mở rộng)** | Ma trận 2 chiều |
+| **Nhiệm vụ 8 (mở rộng)** | Struct + emun |
+| **Nhiệm vụ 9 (mở rộng)** | Point + Danh sách liên kết |
+| **Nhiệm vụ 9 (mở rộng)** | Danh sách liên kết nâng cao |
 ---
 
 ## 📖 Cách học
