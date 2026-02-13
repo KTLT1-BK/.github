@@ -1,4 +1,4 @@
-# Khóa BTL1 - KTLT1 HK252 (bắt đầu 10/1)
+# Khóa BTL1 - KTLT1 HK252 
 
 ## 🎯 Mục tiêu
 - Kĩ năng **debug, vscode, github, docker**
@@ -6,6 +6,7 @@
 - Nâng cao về  **struct, string, function và array**
 - Kiến thức khó về **con trỏ** và mở rộng **con trỏ nâng cao**
 - Hiện thực **BTL1** và nhiều test case
+- Mở rộng BTL1 với kiến thức Dệ Quy, Struct, Point
 
 --- 
 
