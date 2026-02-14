@@ -29,10 +29,10 @@
 |-----|----------------|
 | **Nhiệm vụ 0 tới 5** | phần bắt buộc BTL |
 | **Nhiệm vụ 6 (mở rộng)** | Đệ quy |
-| **Nhiệm vụ 7 (mở rộng)** | Ma trận 2 chiều |
+| **Nhiệm vụ 7 (mở rộng)** | Ma trận 2 chiều + Đệ quy |
 | **Nhiệm vụ 8 (mở rộng)** | Struct + emun |
 | **Nhiệm vụ 9 (mở rộng)** | Point + Danh sách liên kết |
-| **Nhiệm vụ 9 (mở rộng)** | Danh sách liên kết nâng cao |
+| **Nhiệm vụ 10 (mở rộng)** | Danh sách liên kết nâng cao |
 
 ---
 
